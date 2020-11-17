@@ -29,7 +29,6 @@ div{
 	
 }
 #n1{
-	position: absolute;
 	background-color: purple;
 	float: left;
 	border: 1px solid black;
@@ -37,7 +36,6 @@ div{
 	
 }
 #n2{
-	position: absolute;
 	background-color: purple;
 	float: left;
 	border: 1px solid black;
