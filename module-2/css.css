@@ -25,6 +25,7 @@ div{
 	margin-left: auto;
 	font-size: 18px;
 	position: relative;
+	text-align: justify;
 }
 #n{
 	position: absolute;
