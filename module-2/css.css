@@ -30,13 +30,12 @@ div{
 }
 #n{
 	position: absolute;
+	top: 0;
+	right: 0;
 	background-color: purple;
 	border: 1px solid black;
 	font-family: Arial, sans-serif, Helvetica;
 	font-size: 21px;
-	background-position: top left;
-	margin-right: 0px;
-	margin-left: 0px;
 }
 .row {
 	width: 100%;
