@@ -14,12 +14,11 @@ div{
 	margin-right: 20px;
 	margin-bottom: 20px; 
 	background-color: orange;
-	background-position: right top;
 }
 
 #p{
 	width: 100%;
-	height: 100px;
+	height: 100%;
 	float: left;
 	margin-right: 15px;
 	margin-left: auto;
@@ -27,12 +26,12 @@ div{
 	position: relative;
 	text-align: justify;
 	font-family: Arial, sans-serif, Helvetica;
+	padding: 15px 10px 10px 10px;
 }
 #n{
 	position: absolute;
 	background-color: purple;
 	border: 1px solid black;
-	background-position: right top;
 	font-family: Arial, sans-serif, Helvetica;
 	font-size: 21px;
 }
