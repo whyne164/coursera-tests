@@ -26,12 +26,14 @@ div{
 	font-size: 18px;
 	position: relative;
 	text-align: justify;
+	font-family: Arial, sans-serif, Helvetica;
 }
 #n{
 	position: absolute;
 	background-color: purple;
 	border: 1px solid black;
 	background-position: right top;
+	font-family: Arial, sans-serif, Helvetica;
 }
 .row {
 	width: 100%;
