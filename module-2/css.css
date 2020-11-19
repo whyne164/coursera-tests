@@ -12,6 +12,7 @@ h1{
 div{
 	margin-right: 22px;
 	margin-bottom: 20px; 
+	margin-left: 22px;
 	background-color: orange;
 	position: relative;
 }
