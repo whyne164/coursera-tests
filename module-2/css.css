@@ -6,7 +6,7 @@ body{
 }
 h1{
 	margin-bottom: 15px;
-	text-align: center top;
+	background-position: center top;
 }
 div{
 	margin-right: 20px;
@@ -26,10 +26,7 @@ div{
 #n{
 	position: absolute;
 	background-color: purple;
-	float: right;
 	border: 1px solid black;
-	margin-left: auto;
-	margin-right: auto;
 	background-position: right top;
 }
 .row {
