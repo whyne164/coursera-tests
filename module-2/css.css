@@ -13,7 +13,7 @@ div{
 	margin-right: 1%;
 	margin-bottom: 20px; 
 	margin-left: 1%;
-	background-color: orange;
+	background-color: #999999;
 	position: relative;
 }
 
@@ -26,19 +26,41 @@ div{
 	font-size: 18px;
 	position: relative;
 	text-align: justify;
-	font-family: Comic sans, sans-serif, Helvetica;
+	font-family: Arial, sans-serif, Helvetica;
 	padding: 20px 10px 10px 10px;
 }
 #n{
 	position: absolute;
 	top: 0;
 	right: 0;
-	background-color: purple;
+	background-color: #d59898;
 	border: 1px solid black;
 	font-family: Arial, sans-serif, Helvetica;
 	font-size: 21px;
 	padding: 0px 14px 0px 14px;
 	margin-top: 0px;
+}
+#d{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #c14543;
+    border: 1px solid black;
+    font-family: Arial, sans-serif, Helvetica;
+    font-size: 21px;
+    padding: 0px 14px 0px 14px;
+    margin-top: 0px;
+}
+#h{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #e5d198;
+    border: 1px solid black;
+    font-family: Arial, sans-serif, Helvetica;
+    font-size: 21px;
+    padding: 0px 14px 0px 14px;
+    margin-top: 0px;
 }
 .row {
 	width: 100%;
