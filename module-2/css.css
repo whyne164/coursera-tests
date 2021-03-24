@@ -26,7 +26,7 @@ div{
 	font-size: 18px;
 	position: relative;
 	text-align: justify;
-	font-family: Comic sans;
+	font-family: Comic sans, sans-serif, Helvetica;
 	padding: 20px 10px 10px 10px;
 }
 #n{
